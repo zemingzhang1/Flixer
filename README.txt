@@ -35,6 +35,7 @@ Describe any challenges encountered while building the app.
 ## Flix Part 2
 
 ### User Stories
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/g86pzWj" data-context="false" ><a href="//imgur.com/a/g86pzWj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 #### REQUIRED (10pts)
 - [ ] (5pts) User can tap a cell to see more details about a particular movie.
